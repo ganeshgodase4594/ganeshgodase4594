@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshgodase4594" alt="ganeshgodase4594" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+
 - 🔭 I’m currently working on **java Development**
 
 - 🌱 I’m currently learning **Frameworks Of Java**
