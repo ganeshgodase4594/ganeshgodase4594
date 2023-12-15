@@ -1,4 +1,5 @@
-![](https://github.com/ganeshgodase4594/ganeshgodase4594/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Navy Blue Geometric Technology LinkedIn Banner(1)](https://github.com/ganeshgodase4594/ganeshgodase4594/assets/111678625/ab0420a3-ab57-4251-91bb-b03858fe8562)
+
 <h1 align="center">Hi 👋, I'm Ganesh Front End Developer</h1>
 <h3 align="center">My Passion To Create Stunning And Interactive Web Designs Integrated To All Platforms.</h3>
 
