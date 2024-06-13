@@ -1,7 +1,7 @@
 ![Navy Blue Geometric Technology LinkedIn Banner(1)](https://github.com/ganeshgodase4594/ganeshgodase4594/assets/111678625/ab0420a3-ab57-4251-91bb-b03858fe8562)
 
-<h1 align="center">Hi 👋, I'm Ganesh Front End Developer</h1>
-<h3 align="center">My Passion To Create Stunning And Interactive Web Designs Integrated To All Platforms.</h3>
+<h1 align="center">Hi 👋, I'm Ganesh Software Developer</h1>
+<h3 align="center">My Passion To Create Stunning And Interactive Flutter Application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshgodase4594&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshgodase4594" /> </p>
 
@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I’m currently working on **java Development**
+- 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **Frameworks Of Java**
+- 🌱 I’m currently learning **AI And ML**
 
-- 💬 Ask me about **Git|Linux|C|CPP|Java**
+- 💬 Ask me about **Git|Linux|Flutter|Dart|C|CPP|Java**
 
 - 📫 How to reach me **godaseganesh4594@gmail.com**
 
